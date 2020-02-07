@@ -1,6 +1,6 @@
 {
   "name": "@hardwario/node-red-contrib-hardwario",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Set of helpful examples to get you started with the multifunctional industrial HARDWARIO IoT Kits.",
   "main": "",
   "scripts": {
@@ -27,5 +27,8 @@
   },
   "engines": {
     "node": ">=8"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
