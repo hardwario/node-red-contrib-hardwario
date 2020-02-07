@@ -17,6 +17,10 @@ npm i @hardwario/node-red-contrib-hardwario --save
 
 ## Usage example
 
+Use the top right menu to select an example from the **hardwario** menu to import it.
+
+![](icons/example.png "Usage example")
+
 ## Meta
 
 Distributed under the MIT license. See `LICENSE` for more information.
@@ -31,5 +35,3 @@ Made with &#x2764;&nbsp; by [**HARDWARIO s.r.o.**](https://www.hardwario.com/) i
 [npm-url]: https://www.npmjs.com/package/@hardwario/node-red-contrib-hardwario
 [npm-downloads]: https://img.shields.io/npm/dm/@hardwario/node-red-contrib-hardwario.svg?style=flat-square
 [wiki]: https://developers.hardwario.com/
-
-
