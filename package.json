@@ -1,0 +1,31 @@
+{
+  "name": "@hardwario/node-red-contrib-hardwario",
+  "version": "1.0.0",
+  "description": "Set of helpful examples to get you started with the multifunctional industrial HARDWARIO IoT Kits.",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hardwario/node-red-contrib-hardwario.git"
+  },
+  "keywords": [
+    "node-red",
+    "HARDWARIO",
+    "IoT",
+    "examples"
+  ],
+  "author": "HARDWARIO s.r.o.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hardwario/node-red-contrib-hardwario/issues"
+  },
+  "homepage": "https://github.com/hardwario/node-red-contrib-hardwario#readme",
+  "node-red": {
+    "nodes": {}
+  },
+  "engines": {
+    "node": ">=8"
+  }
+}
